@@ -9,6 +9,7 @@ To use this Makecode in a hoverbit project for microbit other than this one (hov
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/paynor/Hoverbit_V2-fork_bluetooth-test** and import.
+  
 **Note:** this extension is a fork of the original gomakekit extension for the hoverbit_v2 - with radio removed and bluetooth added.
 The orginal extension (not compatible with bluetooth) is here: https://github.com/gomakekit/Hoverbit_V2/tree/master
 
