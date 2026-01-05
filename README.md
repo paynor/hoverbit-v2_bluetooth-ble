@@ -1,5 +1,4 @@
-## Use as Extension
-## Use as Extension
+## Extension needed
 
 To use this Makecode for microbit, you will need to add a specific **extension** in MakeCode.
 
