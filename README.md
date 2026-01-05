@@ -1,6 +1,6 @@
 ## Extension needed
 
-To use this Makecode for microbit, you will need to add a specific **extension** in MakeCode.
+To use this Makecode for the hoverbit project for microbit, you will need to add a specific **extension** in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
