@@ -1,7 +1,7 @@
-
+## Use as Extension
 ## Use as Extension
 
-This repository can be added as an **extension** in MakeCode.
+To use this Makecode for microbit, you will need to add a specific **extension** in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
